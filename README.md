@@ -1,6 +1,6 @@
 # Report on Sorting and Searching Algorithms
 
-This report presents the performance of different sorting algorithms (Insertion Sort, Quick Sort, Heap Sort, and Merge Sort) and Binary Search applied to datasets of various sizes.
+This repo is for an in-class project in NTU Data Structure 2024 spring, which presents the performance of different sorting algorithms (Insertion Sort, Quick Sort, Heap Sort, and Merge Sort) and Binary Search applied to datasets of various sizes.
 
 ## Problem 1: Sorting Algorithms
 
